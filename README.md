@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marko vujic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marko vujic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/marko-vujic-443b49325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marko-vujic-443b49325" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markovujic04&show_icons=true&locale=en" alt="markovujic04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markovujic04&" alt="markovujic04" /></p>
+
 
