@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markovujic04&label=Profile%20views&color=0e75b6&style=flat" alt="markovujic04" /> </p>
 
-- 🌱 I’m currently learning **Flutter(Dart) and SQL**
-
-- 💬 Ask me about **Android**
+- 🌱 I’m currently learning **Springboot and SQL**
 
 - 📫 How to reach me **Marko_Vujic24@hotmail.com**
 
